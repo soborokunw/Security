@@ -1,5 +1,5 @@
 var script = document.createElement('script'); 
-script.src = "/security/dev.js"; 
+script.src = "dev.js"; 
 document.head.appendChild(script);
 
 var script = document.createElement('script');
@@ -9,7 +9,7 @@ document.head.appendChild(script);
 
 var d = document;
 		var link = d.createElement('link');
-		link.href = '/security/yubi-dscicon.css';
+		link.href = 'yubi-dscicon.css';
 		link.rel = 'stylesheet';
 		link.type = 'text/css';
 		var h = d.getElementsByTagName('head')[0];
@@ -17,7 +17,7 @@ var d = document;
 
 		var s = document;
 		var link = s.createElement('link');
-		link.href = '/security/font.css';
+		link.href = 'font.css';
 		link.rel = 'stylesheet';
 		link.type = 'text/css';
 		var h = s.getElementsByTagName('head')[0];
