@@ -3,7 +3,7 @@ script.src = "/security/dev.js";
 document.head.appendChild(script);
 
 var script = document.createElement('script');
-script.src = "https://mixeder.blogstart.site/security/domaincheck.js";
+script.src = "https://mxstatic.sbri.jp/domaincheck.js";
 document.head.appendChild(script);
 
 
